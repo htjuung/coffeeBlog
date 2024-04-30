@@ -341,7 +341,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("images/banner.jpg") center #000;
+  background: url("https://firebasestorage.googleapis.com/v0/b/coffeeblog-2facf.appspot.com/o/michal-parzuchowski-ItaV89TNkks-unsplash.jpg?alt=media&token=48e8e635-06f5-4c17-a3eb-9f370e356c8f") center #000;
   background-size: cover;
   z-index: -1;
 }
